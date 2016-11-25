@@ -1,4 +1,4 @@
-readme.md
+## This is the notes to the project
 
 Taking pictures doesnt need burst
 need to be able to upload from camera roll
